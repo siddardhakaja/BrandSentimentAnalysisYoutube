@@ -1,7 +1,0 @@
-pip install oauth2client
-pip install google-api-python-client
-pip install sentencepiece
-pip install tweetnlp==0.4.4
-pip install protobuf==3.20.0
-pip install -U tensorflow==2.10 
-pip install contractions==0.1.73
