@@ -1,0 +1,2 @@
+pip install tweetnlp==0.4.4
+pip install -U tensorflow==2.10 
